@@ -1,0 +1,7 @@
+D:\VS_Repos\LW_2\LW_2\bin\Debug\LW_2.exe.config
+D:\VS_Repos\LW_2\LW_2\bin\Debug\LW_2.exe
+D:\VS_Repos\LW_2\LW_2\bin\Debug\LW_2.pdb
+D:\VS_Repos\LW_2\LW_2\obj\Debug\LW_2.csprojAssemblyReference.cache
+D:\VS_Repos\LW_2\LW_2\obj\Debug\LW_2.csproj.CoreCompileInputs.cache
+D:\VS_Repos\LW_2\LW_2\obj\Debug\LW_2.exe
+D:\VS_Repos\LW_2\LW_2\obj\Debug\LW_2.pdb
