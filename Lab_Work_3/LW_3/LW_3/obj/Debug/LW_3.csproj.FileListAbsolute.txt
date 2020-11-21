@@ -1,0 +1,7 @@
+D:\VS_Repos\LW_3\LW_3\bin\Debug\LW_3.exe.config
+D:\VS_Repos\LW_3\LW_3\bin\Debug\LW_3.exe
+D:\VS_Repos\LW_3\LW_3\bin\Debug\LW_3.pdb
+D:\VS_Repos\LW_3\LW_3\obj\Debug\LW_3.csprojAssemblyReference.cache
+D:\VS_Repos\LW_3\LW_3\obj\Debug\LW_3.csproj.CoreCompileInputs.cache
+D:\VS_Repos\LW_3\LW_3\obj\Debug\LW_3.exe
+D:\VS_Repos\LW_3\LW_3\obj\Debug\LW_3.pdb
